@@ -10,5 +10,4 @@ public class ShopController {
 	public String ShopMain() {
 		return "index";
 	}
-
 }
